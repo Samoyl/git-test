@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace get_test
 {
-    class Program
+    class customer
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello git");
-            int i ? 10;
-        }
+        public int MyProperty { get; set; }
     }
 }

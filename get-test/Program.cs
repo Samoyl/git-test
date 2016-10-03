@@ -11,7 +11,7 @@ namespace get_test
         static void Main(string[] args)
         {
             Console.WriteLine("hello git");
-            int i ? 10;
+            int i = 10;
         }
     }
 }
